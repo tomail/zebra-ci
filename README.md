@@ -1,2 +1,0 @@
-# zebra-ci
-zebra-ci
